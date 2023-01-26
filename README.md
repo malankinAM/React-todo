@@ -1,4 +1,5 @@
 # React project
+# Запуск npm i    npm start
 
 ## Available Scripts
 
